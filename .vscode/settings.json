@@ -1,0 +1,11 @@
+{
+    "prettier.singleQuote": true,
+    "editor.autoClosingQuotes": "languageDefined",
+    "javascript.preferences.quoteStyle": "auto",
+    "typescript.preferences.quoteStyle": "auto",
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+}
